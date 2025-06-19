@@ -16,9 +16,13 @@ This project is a test case for PixupPLay, that handles transactions on a casino
 ## Project Structure
 
 /handlers → HTTP handler functions
+
 /app → DB & settings config
+
 /make_handle → Panic-safe middleware wrapper
+
 /main.go → App entry point
+
 /.env → Environment variables
 
 
