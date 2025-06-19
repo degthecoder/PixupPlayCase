@@ -76,3 +76,9 @@ go run main.go
 ## Testing
 
 The API end points can be tested with the given examples from the pdf. I used Postman for the testing.
+
+You can add me by link if you want to use my Postman Requests: in 
+
+```
+https://.postman.co/workspace/My-Workspace~6b61d7ce-c8cc-4e73-8778-fea8540988bd/collection/22138662-a7c7c9bc-4c8d-4e74-9a4b-f283c92dbcb2?action=share&creator=22138662
+```
